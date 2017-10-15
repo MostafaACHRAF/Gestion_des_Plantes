@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1457877033 source:d:\mostafa\mes projets\projets_c_c++\c\projet1_enset\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1458471228 source:d:\mostafa\formation\glsid première année\s2\structures de données\tp\projet de gestion des plantes\projet1_enset_version_finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
